@@ -1,0 +1,63 @@
+.experience-section {
+    padding-top: 20px;
+    margin-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.section-title {
+    font-size: 1.6em;
+    color: black;
+    border-bottom: 2px solid #e2e2e2;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.job-item {
+    margin-bottom: 25px;
+    padding: 15px 20px;
+    border-left: 4px solid #f2a67e;
+    background: #F6E6D8;
+
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.job-item:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.role {
+    font-size: 1.55em;
+    color: #7B1E2E;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.company {
+    font-style: normal;
+    color: #7B1E2E;
+    font-size: 1.65em;
+    margin-bottom: 3px;
+    font-weight: 500;
+}
+
+
+
+.responsibilities {
+    list-style-type: disc;
+    margin-left: 25px;
+    padding-left: 0;
+    font-size: 1.60em;
+    color: #4a5a6a;
+    line-height: 1.6;
+}
+
+.responsibilities li {
+    margin-bottom: 5px;
+}

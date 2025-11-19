@@ -1,0 +1,51 @@
+.education-section {
+    padding-top: 20px;
+    margin-bottom: 25px;
+
+}
+
+.section-title {
+    font-size: 1.5em;
+    color: #333;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.education-item {
+    margin-bottom: 20px;
+    padding: 10px 0;
+
+    border-left: 3px solid #f99066;
+    padding-left: 15px;
+     background-color: #F6E6D8;
+}
+
+.degree {
+    font-size: 1.60em;
+    color: #7B1E2E;
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+
+.institution {
+    font-style: italic;
+    color: #555;
+    margin-bottom: 2px;
+    font-size: 1.30em;
+}
+
+.dates {
+    font-size: 1.55em;
+    color: #777;
+    margin-bottom: 8px;
+}
+
+.highlights {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding-left: 0;
+    font-size: 1.60em;
+    color: #444;
+}
